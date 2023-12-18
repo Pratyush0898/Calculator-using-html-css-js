@@ -22,7 +22,7 @@ To see a live demo of the calculator, visit [Calculator Demo](https://pratyush-d
 If you would like to contribute to this project, feel free to fork the repository and submit pull requests.
 
 ## Contact
-For any inquiries, contact Pratyush at pratyush@example.com.
+For any inquiries, contact Pratyush at pratyush0898@gmail.com.
 
 ## License
 This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENSE) file for details.
