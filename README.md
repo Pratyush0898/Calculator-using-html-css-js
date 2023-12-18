@@ -16,7 +16,7 @@ This repository contains the source code for a basic calculator implemented usin
 2. Open the `index.html` file in your preferred web browser.
 
 ## Demo
-To see a live demo of the calculator, visit [Calculator Demo](https://pratyush-developers.github.io/Calculator-using-html-css-js/)
+To see a live demo of the calculator, visit [Calculator Demo](https://replit.com/@pkcanva123/Calculator-using-html-css-js)
 
 ## Contributing
 If you would like to contribute to this project, feel free to fork the repository and submit pull requests.
